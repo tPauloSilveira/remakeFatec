@@ -456,7 +456,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #fd9042;
+  background: #bf383a;
   margin: 4px 10px;
 }
 .section-title p {
@@ -495,7 +495,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #ef6603;
+  color: #bf383a;
   line-height: 1;
 }
 .about .content p:last-child {
