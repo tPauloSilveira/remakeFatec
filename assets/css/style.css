@@ -511,14 +511,14 @@ section {
   border-radius: 5px;
   transition: 0.3s;
   line-height: 1;
-  color: #ef6603;
+  color: #bf383a;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #ef6603;
+  border: 2px solid #bf383a;
 }
 .about .content .btn-learn-more:hover {
-  background: #ef6603;
+  background: #bf383a;
   color: #fff;
   text-decoration: none;
 }
