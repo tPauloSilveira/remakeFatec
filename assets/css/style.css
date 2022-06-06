@@ -712,10 +712,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ef6603;
+  border: 1px solid #bf383a;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ef6603;
+  background-color: #bf383a;
 }
 
 /*--------------------------------------------------------------
